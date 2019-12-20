@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>78866408_2416005168648525_1908314051910303744_n.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\78866408_2416005168648525_1908314051910303744_n.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>662</ymin>
+			<xmax>383</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+</annotation>
